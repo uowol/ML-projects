@@ -1,0 +1,30 @@
+==========train all by one tensor / max_score
+accuracy: 90.5315
+==========train all by one tensor / max_score
+accuracy: 90.0010
+==========train all by one tensor / max_score
+accuracy: 87.3586
+==========train all by one tensor / mean_score
+accuracy: 17.0854
+==========train all by one tensor / mean_score
+accuracy: 19.2473
+==========train all by one tensor / mean_score
+accuracy: 22.5003
+==========train all by one tensor / count_score
+accuracy: 17.3056
+==========train all by one tensor / count_score
+accuracy: 17.3056
+==========train all by one tensor / count_score
+accuracy: 17.3056
+==========train all by one tensor / new_score
+accuracy: 35.3218
+==========train all by one tensor / new_score
+accuracy: 52.1069
+==========train all by one tensor / new_score
+accuracy: 49.4545
+==========train all by each tensor(init with last weight) / max_score
+accuracy: 80.5525
+==========train all by each tensor(init with last weight) / max_score
+accuracy: 93.8545
+==========train all by each tensor(init with last weight) / max_score
+accuracy: 90.5415

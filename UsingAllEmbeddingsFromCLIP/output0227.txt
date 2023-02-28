@@ -189,3 +189,11 @@ accuracy: 39.8659
 accuracy: 28.0352
 ==========train all by each tensor(init with randn weight) / mean_score
 accuracy: 23.6613
+==========non_train / new_score
+accuracy: 93.9047
+==========clip / zeroshot
+accuracy: 93.7809
+==========clip / zeroshot
+accuracy: 93.6262
+==========clip / zeroshot
+accuracy: 90.5815

@@ -1,0 +1,400 @@
+==========train all by one tensor / max_score
+accuracy: 89.3204
+==========train all by one tensor / max_score
+accuracy: 90.2813
+==========train all by one tensor / max_score
+accuracy: 90.7216
+==========train all by one tensor / max_score
+accuracy: 91.0319
+==========train all by one tensor / max_score
+accuracy: 91.2721
+==========train all by one tensor / max_score
+accuracy: 91.4223
+==========train all by one tensor / max_score
+accuracy: 91.6625
+==========train all by one tensor / max_score
+accuracy: 92.0328
+==========train all by one tensor / max_score
+accuracy: 92.2230
+==========train all by one tensor / max_score
+accuracy: 92.4432
+==========train all by one tensor / max_score
+accuracy: 92.6033
+==========train all by one tensor / max_score
+accuracy: 92.6834
+==========train all by one tensor / max_score
+accuracy: 92.7935
+==========train all by one tensor / max_score
+accuracy: 92.9136
+==========train all by one tensor / max_score
+accuracy: 93.0938
+==========train all by one tensor / max_score
+accuracy: 93.2539
+==========train all by one tensor / max_score
+accuracy: 93.3840
+==========train all by one tensor / max_score
+accuracy: 93.4741
+==========train all by one tensor / max_score
+accuracy: 93.5442
+==========train all by one tensor / max_score
+accuracy: 93.6743
+==========train all by one tensor / max_score
+accuracy: 93.7544
+==========train all by one tensor / max_score
+accuracy: 93.8144
+==========train all by one tensor / max_score
+accuracy: 93.8545
+==========train all by one tensor / max_score
+accuracy: 93.8845
+==========train all by one tensor / max_score
+accuracy: 93.9746
+==========train all by one tensor / max_score
+accuracy: 93.9846
+==========train all by one tensor / max_score
+accuracy: 94.0346
+==========train all by one tensor / max_score
+accuracy: 94.0546
+==========train all by one tensor / max_score
+accuracy: 94.1147
+==========train all by one tensor / max_score
+accuracy: 94.1547
+==========train all by one tensor / max_score
+accuracy: 94.2148
+==========train all by one tensor / max_score
+accuracy: 94.2548
+==========train all by one tensor / max_score
+accuracy: 94.2949
+==========train all by one tensor / max_score
+accuracy: 94.3449
+==========train all by one tensor / max_score
+accuracy: 94.3649
+==========train all by one tensor / max_score
+accuracy: 94.4350
+==========train all by one tensor / max_score
+accuracy: 94.4750
+==========train all by one tensor / max_score
+accuracy: 94.5251
+==========train all by one tensor / max_score
+accuracy: 94.5451
+==========train all by one tensor / max_score
+accuracy: 94.5951
+==========train all by one tensor / max_score
+accuracy: 94.6552
+==========train all by one tensor / max_score
+accuracy: 94.6752
+==========train all by one tensor / max_score
+accuracy: 94.6852
+==========train all by one tensor / max_score
+accuracy: 94.7052
+==========train all by one tensor / max_score
+accuracy: 94.7353
+==========train all by one tensor / max_score
+accuracy: 94.7653
+==========train all by one tensor / max_score
+accuracy: 94.7753
+==========train all by one tensor / max_score
+accuracy: 94.7953
+==========train all by one tensor / max_score
+accuracy: 94.7953
+==========train all by one tensor / max_score
+accuracy: 94.8153
+==========train all by one tensor / max_score
+accuracy: 94.8253
+==========train all by one tensor / max_score
+accuracy: 94.8153
+==========train all by one tensor / max_score
+accuracy: 94.8153
+==========train all by one tensor / max_score
+accuracy: 94.8153
+==========train all by one tensor / max_score
+accuracy: 94.8554
+==========train all by one tensor / max_score
+accuracy: 94.8554
+==========train all by one tensor / max_score
+accuracy: 94.8554
+==========train all by one tensor / max_score
+accuracy: 94.8854
+==========train all by one tensor / max_score
+accuracy: 94.9054
+==========train all by one tensor / max_score
+accuracy: 94.8854
+==========train all by one tensor / max_score
+accuracy: 94.8954
+==========train all by one tensor / max_score
+accuracy: 94.9054
+==========train all by one tensor / max_score
+accuracy: 94.9455
+==========train all by one tensor / max_score
+accuracy: 94.9555
+==========train all by one tensor / max_score
+accuracy: 94.9455
+==========train all by one tensor / max_score
+accuracy: 94.9655
+==========train all by one tensor / max_score
+accuracy: 94.9655
+==========train all by one tensor / max_score
+accuracy: 94.9655
+==========train all by one tensor / max_score
+accuracy: 94.9955
+==========train all by one tensor / max_score
+accuracy: 95.0055
+==========train all by one tensor / max_score
+accuracy: 95.0155
+==========train all by one tensor / max_score
+accuracy: 95.0155
+==========train all by one tensor / max_score
+accuracy: 95.0455
+==========train all by one tensor / max_score
+accuracy: 95.0555
+==========train all by one tensor / max_score
+accuracy: 95.0555
+==========train all by one tensor / max_score
+accuracy: 95.0555
+==========train all by one tensor / max_score
+accuracy: 95.0555
+==========train all by one tensor / max_score
+accuracy: 95.0555
+==========train all by one tensor / max_score
+accuracy: 95.0656
+==========train all by one tensor / max_score
+accuracy: 95.0555
+==========train all by one tensor / max_score
+accuracy: 95.0555
+==========train all by one tensor / max_score
+accuracy: 95.0756
+==========train all by one tensor / max_score
+accuracy: 95.0455
+==========train all by one tensor / max_score
+accuracy: 95.0255
+==========train all by one tensor / max_score
+accuracy: 95.0355
+==========train all by one tensor / max_score
+accuracy: 95.0555
+==========train all by one tensor / max_score
+accuracy: 95.0455
+==========train all by one tensor / max_score
+accuracy: 95.0055
+==========train all by one tensor / max_score
+accuracy: 95.0055
+==========train all by one tensor / max_score
+accuracy: 95.0055
+==========train all by one tensor / max_score
+accuracy: 94.9955
+==========train all by one tensor / max_score
+accuracy: 94.9955
+==========train all by one tensor / max_score
+accuracy: 95.0055
+==========train all by one tensor / max_score
+accuracy: 95.0055
+==========train all by one tensor / max_score
+accuracy: 95.0255
+==========train all by one tensor / max_score
+accuracy: 95.0155
+==========train all by one tensor / max_score
+accuracy: 95.0355
+==========train all by one tensor / max_score
+accuracy: 95.0255
+==========train all by one tensor / max_score
+accuracy: 95.0355
+==========train all by one tensor / max_score
+accuracy: 95.0255
+==========train all by one tensor / max_score
+accuracy: 95.0355
+==========train all by one tensor / max_score
+accuracy: 95.0355
+==========train all by one tensor / max_score
+accuracy: 95.0355
+==========train all by one tensor / max_score
+accuracy: 95.0455
+==========train all by one tensor / max_score
+accuracy: 95.0555
+==========train all by one tensor / max_score
+accuracy: 95.0355
+==========train all by one tensor / max_score
+accuracy: 95.0455
+==========train all by one tensor / max_score
+accuracy: 95.0656
+==========train all by one tensor / max_score
+accuracy: 95.0756
+==========train all by one tensor / max_score
+accuracy: 95.0656
+==========train all by one tensor / max_score
+accuracy: 95.0756
+==========train all by one tensor / max_score
+accuracy: 95.0856
+==========train all by one tensor / max_score
+accuracy: 95.1156
+==========train all by one tensor / max_score
+accuracy: 95.0956
+==========train all by one tensor / max_score
+accuracy: 95.0956
+==========train all by one tensor / max_score
+accuracy: 95.1156
+==========train all by one tensor / max_score
+accuracy: 95.1056
+==========train all by one tensor / max_score
+accuracy: 95.1156
+==========train all by one tensor / max_score
+accuracy: 95.1356
+==========train all by one tensor / max_score
+accuracy: 95.1256
+==========train all by one tensor / max_score
+accuracy: 95.1356
+==========train all by one tensor / max_score
+accuracy: 95.1356
+==========train all by one tensor / max_score
+accuracy: 95.1556
+==========train all by one tensor / max_score
+accuracy: 95.1556
+==========train all by one tensor / max_score
+accuracy: 95.1757
+==========train all by one tensor / max_score
+accuracy: 95.1456
+==========train all by one tensor / max_score
+accuracy: 95.1456
+==========train all by one tensor / max_score
+accuracy: 95.1556
+==========train all by one tensor / max_score
+accuracy: 95.1656
+==========train all by one tensor / max_score
+accuracy: 95.1656
+==========train all by one tensor / max_score
+accuracy: 95.1656
+==========train all by one tensor / max_score
+accuracy: 95.1957
+==========train all by one tensor / max_score
+accuracy: 95.2057
+==========train all by one tensor / max_score
+accuracy: 95.1957
+==========train all by one tensor / max_score
+accuracy: 95.2157
+==========train all by one tensor / max_score
+accuracy: 95.2357
+==========train all by one tensor / max_score
+accuracy: 95.2157
+==========train all by one tensor / max_score
+accuracy: 95.2257
+==========train all by one tensor / max_score
+accuracy: 95.2457
+==========train all by one tensor / max_score
+accuracy: 95.2557
+==========train all by one tensor / max_score
+accuracy: 95.2557
+==========train all by one tensor / max_score
+accuracy: 95.2457
+==========train all by one tensor / max_score
+accuracy: 95.2557
+==========train all by one tensor / max_score
+accuracy: 95.2457
+==========train all by one tensor / max_score
+accuracy: 95.2557
+==========train all by one tensor / max_score
+accuracy: 95.2757
+==========train all by one tensor / max_score
+accuracy: 95.2958
+==========train all by one tensor / max_score
+accuracy: 95.3058
+==========train all by one tensor / max_score
+accuracy: 95.3058
+==========train all by one tensor / max_score
+accuracy: 95.3058
+==========train all by one tensor / max_score
+accuracy: 95.2958
+==========train all by one tensor / max_score
+accuracy: 95.2958
+==========train all by one tensor / max_score
+accuracy: 95.2958
+==========train all by one tensor / max_score
+accuracy: 95.2958
+==========train all by one tensor / max_score
+accuracy: 95.3158
+==========train all by one tensor / max_score
+accuracy: 95.3158
+==========train all by one tensor / max_score
+accuracy: 95.3358
+==========train all by one tensor / max_score
+accuracy: 95.3258
+==========train all by one tensor / max_score
+accuracy: 95.3558
+==========train all by one tensor / max_score
+accuracy: 95.3458
+==========train all by one tensor / max_score
+accuracy: 95.3458
+==========train all by one tensor / max_score
+accuracy: 95.3458
+==========train all by one tensor / max_score
+accuracy: 95.3258
+==========train all by one tensor / max_score
+accuracy: 95.3158
+==========train all by one tensor / max_score
+accuracy: 95.3258
+==========train all by one tensor / max_score
+accuracy: 95.3458
+==========train all by one tensor / max_score
+accuracy: 95.3358
+==========train all by one tensor / max_score
+accuracy: 95.3458
+==========train all by one tensor / max_score
+accuracy: 95.3358
+==========train all by one tensor / max_score
+accuracy: 95.3358
+==========train all by one tensor / max_score
+accuracy: 95.3458
+==========train all by one tensor / max_score
+accuracy: 95.3458
+==========train all by one tensor / max_score
+accuracy: 95.3458
+==========train all by one tensor / max_score
+accuracy: 95.3458
+==========train all by one tensor / max_score
+accuracy: 95.3558
+==========train all by one tensor / max_score
+accuracy: 95.3658
+==========train all by one tensor / max_score
+accuracy: 95.3658
+==========train all by one tensor / max_score
+accuracy: 95.3758
+==========train all by one tensor / max_score
+accuracy: 95.3758
+==========train all by one tensor / max_score
+accuracy: 95.3758
+==========train all by one tensor / max_score
+accuracy: 95.3758
+==========train all by one tensor / max_score
+accuracy: 95.3758
+==========train all by one tensor / max_score
+accuracy: 95.3858
+==========train all by one tensor / max_score
+accuracy: 95.3959
+==========train all by one tensor / max_score
+accuracy: 95.3959
+==========train all by one tensor / max_score
+accuracy: 95.3858
+==========train all by one tensor / max_score
+accuracy: 95.3858
+==========train all by one tensor / max_score
+accuracy: 95.3858
+==========train all by one tensor / max_score
+accuracy: 95.3758
+==========train all by one tensor / max_score
+accuracy: 95.3758
+==========train all by one tensor / max_score
+accuracy: 95.3959
+==========train all by one tensor / max_score
+accuracy: 95.3959
+==========train all by one tensor / max_score
+accuracy: 95.4059
+==========train all by one tensor / max_score
+accuracy: 95.4059
+==========train all by one tensor / max_score
+accuracy: 95.4159
+==========train all by one tensor / max_score
+accuracy: 95.4259
+==========train all by one tensor / max_score
+accuracy: 95.3959
+==========train all by one tensor / max_score
+accuracy: 95.4059
+==========train all by one tensor / max_score
+accuracy: 95.4059
+==========train all by one tensor / max_score
+accuracy: 95.3959

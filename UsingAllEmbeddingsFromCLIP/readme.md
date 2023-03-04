@@ -24,7 +24,8 @@
 
 - Zeroshot clip image classification
 Testing accuracy: 93.80
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b3f781ed-9cfe-4b48-814c-f9106d0721f5/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/20416616/222901049-7a1d7960-07c3-4efa-91ff-bb9d2d3d03bf.png)
+
 ---
 
 - epoch = 200

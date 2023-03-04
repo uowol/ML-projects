@@ -66,14 +66,14 @@ Testing accuracy: 85.0365
 4. train all by one tensor / new_score
 Testing accuracy: 94.3249
 5. train all by each tensor(init with last weight) / max_score
-Testing accuracy: 
+Testing accuracy: 93.6743
 6. train all by each tensor(init with last weight) / mean_score
-Testing accuracy: 
+Testing accuracy: 93.1638
 8. train all by each tensor(init with last weight) / new_score
-Testing accuracy: 
+Testing accuracy: 90.1812
 9. train all by each tensor(init with randn weight) / max_score
-Testing accuracy: 
+Testing accuracy: 93.5842
 10. train all by each tensor(init with randn weight) / mean_score
-Testing accuracy: 
+Testing accuracy: 92.4632
 12. train all by each tensor(init with randn weight) / new_score
-Testing accuracy: 
+Testing accuracy: 95.6561

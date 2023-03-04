@@ -22,6 +22,11 @@
 
 ## 성능 측정
 
+- Zeroshot clip image classification
+Testing accuracy: 93.80
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b3f781ed-9cfe-4b48-814c-f9106d0721f5/Untitled.png)
+---
+
 - epoch = 200
 - loss function = CrossEntropyLoss
 - optimizer = SGD(leraning-rate = 0.001, momentum=0.1)
@@ -49,7 +54,7 @@ Testing accuracy: 89.9810 %
 Testing accuracy: 17.3056 %
 12. train all by each tensor(init with randn weight) / new_score
 Testing accuracy: 95.3758 %
-
+---
 - epoch = 500
 - loss function = CrossEntropyLoss
 - optimizer = SGD(leraning-rate = 0.001, momentum=0.1)

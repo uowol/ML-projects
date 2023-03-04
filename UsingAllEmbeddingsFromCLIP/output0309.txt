@@ -3338,3 +3338,23 @@ accuracy: 94.2849
 accuracy: 94.2849
 499	==========train all by one tensor / max_score
 accuracy: 94.2748
+490	==========train all by one tensor / max_score
+accuracy: 93.6743
+491	==========train all by one tensor / max_score
+accuracy: 93.6543
+492	==========train all by one tensor / max_score
+accuracy: 93.6643
+493	==========train all by one tensor / max_score
+accuracy: 93.6743
+494	==========train all by one tensor / max_score
+accuracy: 93.6543
+495	==========train all by one tensor / max_score
+accuracy: 93.6643
+496	==========train all by one tensor / max_score
+accuracy: 93.6443
+497	==========train all by one tensor / max_score
+accuracy: 93.6443
+498	==========train all by one tensor / max_score
+accuracy: 93.6443
+499	==========train all by one tensor / max_score
+accuracy: 93.6443

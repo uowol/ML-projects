@@ -1,24 +1,24 @@
 ## Todo
 - 논문 읽기
     - [x] CoOp
-    - [] CoCoOp
-    - [] Tip Adapter
+    - [ ] CoCoOp
+    - [ ] Tip Adapter
     - 어떤 실험을 했는지 참고하고 괜찮은 실험이 있다면 내 모델에 적용해보기
 - 가설 세우기
-    - [] 정량분석 : 내 모델의 성능이 잘 나타나는가
+    - [ ] 정량분석 : 내 모델의 성능이 잘 나타나는가
         - 가설 : | 
-    - [] 정성분석 : 왜 잘 나타나는지 설명할 수 있어야
+    - [ ] 정성분석 : 왜 잘 나타나는지 설명할 수 있어야
         - 가설 : | 
 - 0,1,2,4,8,16-shot train graph 그리기
-    - [] clip zeroshot
-    - [] clip probing model
-    - [] mymodel
+    - [ ] clip zeroshot
+    - [ ] clip probing model
+    - [ ] mymodel
 - domain generalization 성능 측정    (16-shot)
-    - [] source : ImageNet
-    - [] target : -V2
-    - [] target : -Sketch
-    - [] target : -A
-    - [] target : -R
+    - [ ] source : ImageNet
+    - [ ] target : -V2
+    - [ ] target : -Sketch
+    - [ ] target : -A
+    - [ ] target : -R
 
 ## 성능 측정
 

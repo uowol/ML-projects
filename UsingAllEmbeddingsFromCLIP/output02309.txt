@@ -1,0 +1,400 @@
+0	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 14.4730
+1	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 14.4730
+2	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 14.4730
+3	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 14.4730
+4	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 14.4730
+5	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 14.4730
+6	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 15.0135
+7	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 17.8761
+8	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 21.2291
+9	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 23.5612
+10	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 24.7823
+11	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 25.6931
+12	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 26.9543
+13	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 28.4656
+14	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 29.9269
+15	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 31.5184
+16	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 33.0798
+17	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 34.6812
+18	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 36.6830
+19	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 38.6948
+20	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 40.7867
+21	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 43.0087
+22	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 45.0405
+23	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 46.6220
+24	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 47.8931
+25	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 49.0241
+26	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 49.9450
+27	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 50.9358
+28	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 51.8066
+29	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 52.5873
+30	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 53.2679
+31	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 53.8184
+32	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 54.4790
+33	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 55.2197
+34	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 55.8102
+35	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 56.4008
+36	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 57.0614
+37	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 57.6018
+38	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 58.1023
+39	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 58.7629
+40	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 59.2934
+41	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 59.8138
+42	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 60.3743
+43	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 60.9549
+44	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 61.4653
+45	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 62.0559
+46	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 62.6164
+47	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 63.1068
+48	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 63.6373
+49	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 64.0276
+50	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 64.4480
+51	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 64.9384
+52	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 65.3989
+53	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 65.8092
+54	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 66.2797
+55	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 66.7000
+56	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 67.0704
+57	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 67.3907
+58	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 67.6909
+59	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 68.1914
+60	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 68.5917
+61	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 69.0622
+62	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 69.7027
+63	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 70.2232
+64	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 70.7036
+65	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 71.0239
+66	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 71.4243
+67	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 71.8347
+68	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 72.2650
+69	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 72.6654
+70	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 73.1258
+71	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 73.4061
+72	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 73.8465
+73	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 74.2969
+74	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 74.5771
+75	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 74.9675
+76	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 75.1476
+77	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 75.4779
+78	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 75.8082
+79	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 76.1285
+80	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 76.4388
+81	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 76.8291
+82	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 77.1494
+83	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 77.4997
+84	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 77.7500
+85	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 78.0202
+86	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 78.3205
+87	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 78.5107
+88	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 78.8009
+89	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 79.0612
+90	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 79.3814
+91	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 79.5816
+92	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 79.8118
+93	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 79.9920
+94	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 80.2823
+95	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 80.4824
+96	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 80.7227
+97	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 80.9729
+98	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 81.2731
+99	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 81.6135
+100	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 81.8036
+101	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 82.0739
+102	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 82.2740
+103	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 82.4542
+104	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 82.5643
+105	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 82.6944
+106	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 82.9146
+107	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 83.0848
+108	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 83.2950
+109	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 83.5052
+110	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 83.6953
+111	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 83.8154
+112	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 83.9756
+113	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 84.1257
+114	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 84.2558
+115	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 84.3960
+116	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 84.5261
+117	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 84.7062
+118	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 84.7463
+119	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 84.8964
+120	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 85.0265
+121	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 85.1166
+122	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 85.2067
+123	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 85.3468
+124	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 85.4169
+125	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 85.4669
+126	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 85.6371
+127	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 85.7472
+128	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 85.8573
+129	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 85.9674
+130	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 86.0474
+131	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 86.1676
+132	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 86.2776
+133	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 86.3577
+134	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 86.4678
+135	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 86.5679
+136	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 86.6480
+137	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 86.7481
+138	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 86.8482
+139	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 86.9082
+140	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 86.9983
+141	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 87.1184
+142	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 87.2385
+143	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 87.2685
+144	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 87.3386
+145	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 87.4287
+146	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 87.4787
+147	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 87.5088
+148	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 87.5688
+149	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 87.6489
+150	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 87.6789
+151	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 87.7590
+152	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 87.8090
+153	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 87.8791
+154	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 87.9391
+155	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 87.9992
+156	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 88.0292
+157	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 88.1093
+158	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 88.1593
+159	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 88.1994
+160	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 88.2594
+161	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 88.3495
+162	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 88.3795
+163	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 88.4296
+164	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 88.4796
+165	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 88.5097
+166	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 88.5697
+167	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 88.5997
+168	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 88.6898
+169	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 88.7399
+170	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 88.7799
+171	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 88.8500
+172	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 88.9000
+173	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 88.9501
+174	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 89.0201
+175	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 89.0401
+176	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 89.0602
+177	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 89.1002
+178	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 89.1502
+179	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 89.1803
+180	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 89.2303
+181	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 89.2703
+182	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 89.3004
+183	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 89.3404
+184	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 89.3804
+185	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 89.4305
+186	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 89.5106
+187	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 89.5206
+188	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 89.5706
+189	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 89.6207
+190	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 89.6907
+191	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 89.7207
+192	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 89.7408
+193	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 89.8008
+194	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 89.9109
+195	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 89.9309
+196	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 89.9309
+197	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 89.9810
+198	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 89.9610
+199	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 89.9810

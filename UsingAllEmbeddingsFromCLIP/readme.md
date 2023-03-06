@@ -50,14 +50,18 @@
 ## 성능 측정
 
 - epoch = 6
-![Untitled](https://user-images.githubusercontent.com/20416616/222901049-7a1d7960-07c3-4efa-91ff-bb9d2d3d03bf.png)
-
+- loss function = CrossEntropyLoss
+- optimizer = SGD(leraning-rate = 0.001, momentum=0.1)
+![그림1](https://user-images.githubusercontent.com/20416616/223057176-0c4046ad-1e85-4e63-8be9-c951b8076558.png)
 ---
 
 - epoch = 200
 - loss function = CrossEntropyLoss
 - optimizer = SGD(leraning-rate = 0.001, momentum=0.1)
+![그림2](https://user-images.githubusercontent.com/20416616/223057217-a9999551-d17c-42a2-820f-f7ff5fe0a884.png)
+
 ---
 - epoch = 500
 - loss function = CrossEntropyLoss
 - optimizer = SGD(leraning-rate = 0.001, momentum=0.1)
+![그림3](https://user-images.githubusercontent.com/20416616/223057256-2e6e7d8d-445d-4932-a893-b10c40a58e1a.png)

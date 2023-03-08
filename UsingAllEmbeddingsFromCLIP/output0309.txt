@@ -3458,3 +3458,23 @@ accuracy: 95.6161
 accuracy: 95.6161
 499	==========train all by each tensor(init with randn weight) / new_score
 accuracy: 95.6561
+190	==========linear probing
+accuracy: 93.2239
+191	==========linear probing
+accuracy: 93.2139
+192	==========linear probing
+accuracy: 93.2539
+193	==========linear probing
+accuracy: 93.2639
+194	==========linear probing
+accuracy: 93.2539
+195	==========linear probing
+accuracy: 93.2940
+196	==========linear probing
+accuracy: 93.3140
+197	==========linear probing
+accuracy: 93.3240
+198	==========linear probing
+accuracy: 93.2940
+199	==========linear probing
+accuracy: 93.3340

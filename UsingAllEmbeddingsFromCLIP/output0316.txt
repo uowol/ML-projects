@@ -1,0 +1,4 @@
+50	==========train all by one tensor / max_score
+accuracy: 94.6952
+158	==========train all by one tensor / mean_score
+accuracy: 91.1220

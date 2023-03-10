@@ -6,3 +6,13 @@ accuracy: 91.1220
 accuracy: 89.6807
 51	==========train all by each tensor(init with last weight) / max_score
 accuracy: 94.7253
+200	==========train all by each tensor(init with last weight) / mean_score
+accuracy: 91.9227
+75	==========train all by each tensor(init with last weight) / new_score
+accuracy: 92.8736
+37	==========train all by each tensor(init with randn weight) / max_score
+accuracy: 94.5951
+200	==========train all by each tensor(init with randn weight) / mean_score
+accuracy: 92.3231
+47	==========train all by each tensor(init with randn weight) / new_score
+accuracy: 93.3240

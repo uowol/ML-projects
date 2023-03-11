@@ -38,10 +38,13 @@ accuracy: 94.0046
 ==========clip / zeroshot
 accuracy: 91.7826
 
-- lr -> 0.00001 -
+---
 
-140	==========clip linear probing
-accuracy: 96.4768
+tform = transforms.Compose([
+    transforms.RandomRotation(20), # Image augmentation
+    transforms.ToTensor(), # Must convert to pytorch tensor for subsequent operations to run
+])
+
 50	==========train all by one tensor / max_score
 accuracy: 94.6952
 14	==========train all by one tensor / new_score
@@ -66,5 +69,41 @@ accuracy: 94.4250
 accuracy: 95.8663
 11	==========allNewRandInitModel / lr=0.00001
 accuracy: 94.1948
-25	==========train all by one tensor / max_score
-accuracy: 93.8144
+
+---
+
+tform = transforms.Compose([
+    transforms.ToTensor(), # Must convert to pytorch tensor for subsequent operations to run
+    transforms.Normalize([0.5], [0.5]),
+])
+
+122	==========train all by one tensor / max_score
+accuracy: 94.3249
+155	==========train all by one tensor / new_score
+accuracy: 93.1939
+31	==========train all by each tensor(init with last weight) / max_score
+accuracy: 93.1038
+131	==========train all by each tensor(init with last weight) / new_score
+accuracy: 91.1220
+6	==========train all by each tensor(init with randn weight) / max_score
+accuracy: 92.4532
+39	==========train all by each tensor(init with randn weight) / new_score
+accuracy: 92.2530
+11	==========oneMaxModel / lr=0.00001
+accuracy: 97.4077
+24	==========oneNewModel / lr=0.00001
+accuracy: 96.6170
+12	==========allMaxModel / lr=0.00001
+accuracy: 96.9372
+15	==========allNewModel / lr=0.00001
+accuracy: 94.1247
+69	==========allMaxRandInitModel / lr=0.00001
+accuracy: 96.8071
+43	==========allNewRandInitModel / lr=0.00001
+accuracy: 94.6652
+
+========== clip zeroshot
+accuracy: 91.7826
+
+140	========== clip linear probing
+accuracy: 96.4768

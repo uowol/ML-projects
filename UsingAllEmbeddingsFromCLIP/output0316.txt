@@ -16,3 +16,13 @@ accuracy: 94.5951
 accuracy: 92.3231
 47	==========train all by each tensor(init with randn weight) / new_score
 accuracy: 93.3240
+
+
+50	==========train all by one tensor / max_score
+accuracy: 94.6952
+158	==========train all by one tensor / mean_score
+accuracy: 91.1220
+14	==========train all by one tensor / new_score
+accuracy: 89.6807
+51	==========train all by each tensor(init with last weight) / max_score
+accuracy: 94.7253

@@ -17,7 +17,6 @@ accuracy: 92.3231
 47	==========train all by each tensor(init with randn weight) / new_score
 accuracy: 93.3240
 
-
 50	==========train all by one tensor / max_score
 accuracy: 94.6952
 158	==========train all by one tensor / mean_score
@@ -38,3 +37,34 @@ accuracy: 92.2230
 accuracy: 94.0046
 ==========clip / zeroshot
 accuracy: 91.7826
+
+- lr -> 0.00001 -
+
+140	==========clip linear probing
+accuracy: 96.4768
+50	==========train all by one tensor / max_score
+accuracy: 94.6952
+14	==========train all by one tensor / new_score
+accuracy: 89.6807
+51	==========train all by each tensor(init with last weight) / max_score
+accuracy: 94.7253
+75	==========train all by each tensor(init with last weight) / new_score
+accuracy: 92.8736
+37	==========train all by each tensor(init with randn weight) / max_score
+accuracy: 94.6152
+89	==========train all by each tensor(init with randn weight) / new_score
+accuracy: 93.6843
+53	==========oneMaxModel / lr=0.00001
+accuracy: 95.9764
+20	==========oneNewModel / lr=0.00001
+accuracy: 93.5342
+9	==========allMaxModel / lr=0.00001
+accuracy: 95.5960
+19	==========allNewModel / lr=0.00001
+accuracy: 94.4250
+45	==========allMaxRandInitModel / lr=0.00001
+accuracy: 95.8663
+11	==========allNewRandInitModel / lr=0.00001
+accuracy: 94.1948
+25	==========train all by one tensor / max_score
+accuracy: 93.8144
